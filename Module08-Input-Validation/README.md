@@ -1,1 +1,2 @@
 Module 8 Setup Assignment
+In my application I used input validation in every circumstance where the user needs to select a number, such as my menus. Now if the user enters input that is not a value, it prompts the user to try again. I did not put restrictions on character names because I don't care if people put numbers or special characters in them.
